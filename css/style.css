@@ -1,0 +1,166 @@
+.bg-alpilean {
+    background: url(../images/mountain.jpg);
+    background: linear-gradient(180deg, rgba(6, 128, 233, 1) 0%, rgba(21, 142, 179, 1) 58%, rgba(6, 128, 233, 1) 100%);
+}
+
+.goldencolor {
+    color: rgb(223, 149, 30) !important;
+}
+
+.trb-slogan {
+    color: rgb(223, 149, 30) !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mt50 {
+    margin-top: 50px;
+}
+
+.mt70 {
+    margin-top: 70px;
+}
+
+.mt100 {
+    margin-top: 100px;
+}
+
+.logo-img {
+    width: 277px !important;
+    height: 284px;
+}
+
+.focus-text {
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.border-img {
+    width: 70%;
+    height: auto;
+    border-radius: 11px;
+    border-style: solid;
+    border-color: rgb(203, 165, 44);
+    border-width: 5px;
+}
+
+.red-line {
+    height: 7px;
+    background-color: red;
+}
+
+.bg-nav {
+    background-color: #000000;
+}
+
+.logo-size {
+    width: 180px;
+    height: 54px;
+}
+
+.pt50 {
+    padding-top: 50px;
+}
+
+.pt150 {
+    padding-top: 150px;
+}
+
+.pb10 {
+    padding-bottom: 10px;
+}
+
+.pb30 {
+    padding-bottom: 30px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.hero-headline {
+    font-size: 3.5rem;
+    letter-spacing: -.05vw;
+    text-shadow: 2px 4px 3px rgb(0 0 0 / 30%);
+    line-height: .95;
+    color: white;
+    font-weight: 700;
+}
+
+.yellow-text {
+    color: #ffe400;
+}
+
+.light-blue {
+    color: #2ef4ff;
+}
+
+.is-size-4 {
+    font-size: 1.5rem !important;
+    color: white;
+}
+
+.size-4 {
+    font-size: 1.25rem !important;
+}
+
+.size-6 {
+    font-size: 1rem !important;
+}
+
+.dark-blue {
+    color: #485fc7 !important
+}
+
+.bg-darkblue {
+    background-color: #00008B !important
+}
+
+.btheading {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #00008B;
+    margin-bottom: 0px;
+}
+
+.price {
+    font-size: 4.5rem;
+    letter-spacing: -3px;
+    margin-bottom: -20px;
+    margin-top: -15px;
+    font-weight: 700;
+    color: #00008B;
+}
+
+.bt-h {
+    font-size: 1.5rem;
+    color: #00008B;
+    letter-spacing: -1px;
+}
+
+.small-font {
+    font-size: 1.3rem;
+    color: #00008B;
+    letter-spacing: -1px;
+}
+
+ul.benefit li {
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.btn_bg {
+    padding-left: 70px !important;
+    padding-right: 70px !important;
+    font-weight: 700 !important;
+}
+
+.line2 {
+    line-height: 2rem;
+}
